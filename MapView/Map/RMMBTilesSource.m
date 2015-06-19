@@ -36,7 +36,7 @@
 #import <Mapbox-iOS-SDK/RMProjection.h>
 #import <Mapbox-iOS-SDK/RMFractalTileProjection.h>
 
-#import <Mapbox-iOS-SDK/FMDB.h>
+#import "FMDB.h"
 
 @implementation RMMBTilesSource
 {

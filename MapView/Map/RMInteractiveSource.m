@@ -35,9 +35,9 @@
 
 #import <Mapbox-iOS-SDK/RMConfiguration.h>
 
-#import <Mapbox-iOS-SDK/FMDB.h>
+#import "FMDB.h"
 
-#import <Mapbox-iOS-SDK/GRMustache.h>
+#import "GRMustache.h"
 
 #import <QuartzCore/QuartzCore.h>
 #import <UIKit/UIKit.h>

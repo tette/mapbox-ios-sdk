@@ -26,7 +26,7 @@
 // POSSIBILITY OF SUCH DAMAGE.
 
 #import <Mapbox-iOS-SDK/RMDatabaseCache.h>
-#import <Mapbox-iOS-SDK/FMDB.h>
+#import "FMDB.h"
 #import <Mapbox-iOS-SDK/RMTileImage.h>
 #import <Mapbox-iOS-SDK/RMTile.h>
 

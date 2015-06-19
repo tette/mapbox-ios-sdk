@@ -72,7 +72,7 @@
 #import <Mapbox-iOS-SDK/RMTileImage.h>
 #import <Mapbox-iOS-SDK/RMTileCache.h>
 #import <Mapbox-iOS-SDK/RMFractalTileProjection.h>
-#import <Mapbox-iOS-SDK/FMDB.h>
+#import "FMDB.h"
 
 #pragma mark --- begin constants ----
 

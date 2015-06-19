@@ -53,7 +53,7 @@
 
 #import <Mapbox-iOS-SDK/RMAttributionViewController.h>
 
-#import <Mapbox-iOS-SDK/SMCalloutView.h>
+#import "SMCalloutView.h"
 
 #pragma mark --- begin constants ----
 

@@ -6,10 +6,10 @@
 //  Copyright (c) 2012-2013 Mapbox. All rights reserved.
 //
 
-#import "RMAttributionViewController.h"
+#import <Mapbox-iOS-SDK/RMAttributionViewController.h>
 
-#import "RMMapView.h"
-#import "RMTileSource.h"
+#import <Mapbox-iOS-SDK/RMMapView.h>
+#import <Mapbox-iOS-SDK/RMTileSource.h>
 
 @interface RMMapView (RMAttributionViewControllerPrivate)
 

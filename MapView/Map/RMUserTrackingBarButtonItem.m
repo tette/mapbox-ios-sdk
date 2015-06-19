@@ -26,10 +26,10 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMUserTrackingBarButtonItem.h"
+#import <Mapbox-iOS-SDK/RMUserTrackingBarButtonItem.h>
 
-#import "RMMapView.h"
-#import "RMUserLocation.h"
+#import <Mapbox-iOS-SDK/RMMapView.h>
+#import <Mapbox-iOS-SDK/RMUserLocation.h>
 
 typedef enum : NSUInteger {
     RMUserTrackingButtonStateNone     = 0,

@@ -26,9 +26,9 @@
 // POSSIBILITY OF SUCH DAMAGE.
 
 #import <Foundation/Foundation.h>
-#import "RMTile.h"
-#import "RMTileSource.h"
-#import "RMCacheObject.h"
+#import <Mapbox-iOS-SDK/RMTile.h>
+#import <Mapbox-iOS-SDK/RMTileSource.h>
+#import <Mapbox-iOS-SDK/RMCacheObject.h>
 
 @class RMTileImage, RMMemoryCache;
 

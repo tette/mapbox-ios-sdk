@@ -33,7 +33,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "RMTileSource.h"
+#import <Mapbox-iOS-SDK/RMTileSource.h>
 
 @class FMDatabaseQueue;
 

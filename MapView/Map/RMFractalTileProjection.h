@@ -26,9 +26,9 @@
 // POSSIBILITY OF SUCH DAMAGE.
 
 #import <Foundation/Foundation.h>
-#import "RMTile.h"
-#import "RMProjection.h"
-#import "RMFoundation.h"
+#import <Mapbox-iOS-SDK/RMTile.h>
+#import <Mapbox-iOS-SDK/RMProjection.h>
+#import <Mapbox-iOS-SDK/RMFoundation.h>
 
 @class RMProjection;
 

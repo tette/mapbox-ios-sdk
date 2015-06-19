@@ -27,8 +27,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import "RMFoundation.h"
-#import "RMMapLayer.h"
+#import <Mapbox-iOS-SDK/RMFoundation.h>
+#import <Mapbox-iOS-SDK/RMMapLayer.h>
 
 @class RMMapView;
 

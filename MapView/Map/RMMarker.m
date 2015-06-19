@@ -25,10 +25,10 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMMarker.h"
+#import <Mapbox-iOS-SDK/RMMarker.h>
 
-#import "RMPixel.h"
-#import "RMConfiguration.h"
+#import <Mapbox-iOS-SDK/RMPixel.h>
+#import <Mapbox-iOS-SDK/RMConfiguration.h>
 
 @implementation RMMarker
 

@@ -25,9 +25,9 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMBingSource.h"
+#import <Mapbox-iOS-SDK/RMBingSource.h>
 
-#import "RMConfiguration.h"
+#import <Mapbox-iOS-SDK/RMConfiguration.h>
 
 @implementation RMBingSource
 {

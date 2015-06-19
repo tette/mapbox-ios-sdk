@@ -68,11 +68,11 @@
 //    uint64_t RMTileKey(RMTile tile);
 //    
 
-#import "RMDBMapSource.h"
-#import "RMTileImage.h"
-#import "RMTileCache.h"
-#import "RMFractalTileProjection.h"
-#import "FMDB.h"
+#import <Mapbox-iOS-SDK/RMDBMapSource.h>
+#import <Mapbox-iOS-SDK/RMTileImage.h>
+#import <Mapbox-iOS-SDK/RMTileCache.h>
+#import <Mapbox-iOS-SDK/RMFractalTileProjection.h>
+#import <Mapbox-iOS-SDK/FMDB.h>
 
 #pragma mark --- begin constants ----
 

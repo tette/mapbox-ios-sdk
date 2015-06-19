@@ -25,9 +25,9 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMGlobalConstants.h"
-#import "proj_api.h"
-#import "RMProjection.h"
+#import <Mapbox-iOS-SDK/RMGlobalConstants.h>
+#import <Mapbox-iOS-SDK/proj_api.h>
+#import <Mapbox-iOS-SDK/RMProjection.h>
 
 @implementation RMProjection
 {

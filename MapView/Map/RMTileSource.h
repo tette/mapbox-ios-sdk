@@ -27,9 +27,9 @@
 
 #import <Foundation/Foundation.h>
 
-#import "RMTile.h"
-#import "RMFoundation.h"
-#import "RMGlobalConstants.h"
+#import <Mapbox-iOS-SDK/RMTile.h>
+#import <Mapbox-iOS-SDK/RMFoundation.h>
+#import <Mapbox-iOS-SDK/RMGlobalConstants.h>
 
 #define RMTileRequested @"RMTileRequested"
 #define RMTileRetrieved @"RMTileRetrieved"

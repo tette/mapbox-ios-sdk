@@ -25,9 +25,9 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMCircle.h"
-#import "RMProjection.h"
-#import "RMMapView.h"
+#import <Mapbox-iOS-SDK/RMCircle.h>
+#import <Mapbox-iOS-SDK/RMProjection.h>
+#import <Mapbox-iOS-SDK/RMMapView.h>
 
 #define kDefaultLineWidth 2.0
 #define kDefaultLineColor [UIColor blackColor]

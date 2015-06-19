@@ -31,11 +31,11 @@
 //  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 //
 
-#import "RMMapboxSource.h"
+#import <Mapbox-iOS-SDK/RMMapboxSource.h>
 
-#import "RMMapView.h"
-#import "RMPointAnnotation.h"
-#import "RMConfiguration.h"
+#import <Mapbox-iOS-SDK/RMMapView.h>
+#import <Mapbox-iOS-SDK/RMPointAnnotation.h>
+#import <Mapbox-iOS-SDK/RMConfiguration.h>
 
 @interface RMMapboxSource ()
 

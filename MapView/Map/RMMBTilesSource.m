@@ -31,12 +31,12 @@
 //  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 //
 
-#import "RMMBTilesSource.h"
-#import "RMTileImage.h"
-#import "RMProjection.h"
-#import "RMFractalTileProjection.h"
+#import <Mapbox-iOS-SDK/RMMBTilesSource.h>
+#import <Mapbox-iOS-SDK/RMTileImage.h>
+#import <Mapbox-iOS-SDK/RMProjection.h>
+#import <Mapbox-iOS-SDK/RMFractalTileProjection.h>
 
-#import "FMDB.h"
+#import <Mapbox-iOS-SDK/FMDB.h>
 
 @implementation RMMBTilesSource
 {

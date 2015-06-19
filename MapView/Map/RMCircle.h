@@ -26,8 +26,8 @@
 // POSSIBILITY OF SUCH DAMAGE.
 
 #import <Foundation/Foundation.h>
-#import "RMFoundation.h"
-#import "RMMapLayer.h"
+#import <Mapbox-iOS-SDK/RMFoundation.h>
+#import <Mapbox-iOS-SDK/RMMapLayer.h>
 
 @class RMMapView;
 

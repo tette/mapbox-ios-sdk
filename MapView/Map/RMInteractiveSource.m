@@ -31,13 +31,13 @@
 //  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 //
 
-#import "RMInteractiveSource.h"
+#import <Mapbox-iOS-SDK/RMInteractiveSource.h>
 
-#import "RMConfiguration.h"
+#import <Mapbox-iOS-SDK/RMConfiguration.h>
 
-#import "FMDB.h"
+#import <Mapbox-iOS-SDK/FMDB.h>
 
-#import "GRMustache.h"
+#import <Mapbox-iOS-SDK/GRMustache.h>
 
 #import <QuartzCore/QuartzCore.h>
 #import <UIKit/UIKit.h>

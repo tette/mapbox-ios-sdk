@@ -33,9 +33,9 @@
 //  Based on the UTFGrid specification: https://github.com/mapbox/utfgrid-spec
 //
 
-#import "RMMapView.h"
-#import "RMMBTilesSource.h"
-#import "RMMapboxSource.h"
+#import <Mapbox-iOS-SDK/RMMapView.h>
+#import <Mapbox-iOS-SDK/RMMBTilesSource.h>
+#import <Mapbox-iOS-SDK/RMMapboxSource.h>
 
 typedef enum : NSUInteger {
     RMInteractiveSourceOutputTypeTeaser = 0,

@@ -26,16 +26,16 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMMapTiledLayerView.h"
+#import <Mapbox-iOS-SDK/RMMapTiledLayerView.h>
 
-#import "RMMapView.h"
-#import "RMTileSource.h"
-#import "RMTileImage.h"
-#import "RMTileCache.h"
-#import "RMMBTilesSource.h"
-#import "RMDBMapSource.h"
-#import "RMAbstractWebMapSource.h"
-#import "RMDatabaseCache.h"
+#import <Mapbox-iOS-SDK/RMMapView.h>
+#import <Mapbox-iOS-SDK/RMTileSource.h>
+#import <Mapbox-iOS-SDK/RMTileImage.h>
+#import <Mapbox-iOS-SDK/RMTileCache.h>
+#import <Mapbox-iOS-SDK/RMMBTilesSource.h>
+#import <Mapbox-iOS-SDK/RMDBMapSource.h>
+#import <Mapbox-iOS-SDK/RMAbstractWebMapSource.h>
+#import <Mapbox-iOS-SDK/RMDatabaseCache.h>
 
 #define IS_VALID_TILE_IMAGE(image) (image != nil && [image isKindOfClass:[UIImage class]])
 

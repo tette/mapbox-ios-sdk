@@ -27,16 +27,16 @@
 
 #import <sys/utsname.h>
 
-#import "RMTileCache.h"
-#import "RMMemoryCache.h"
-#import "RMDatabaseCache.h"
+#import <Mapbox-iOS-SDK/RMTileCache.h>
+#import <Mapbox-iOS-SDK/RMMemoryCache.h>
+#import <Mapbox-iOS-SDK/RMDatabaseCache.h>
 
-#import "RMConfiguration.h"
-#import "RMTileSource.h"
+#import <Mapbox-iOS-SDK/RMConfiguration.h>
+#import <Mapbox-iOS-SDK/RMTileSource.h>
 
-#import "RMAbstractWebMapSource.h"
+#import <Mapbox-iOS-SDK/RMAbstractWebMapSource.h>
 
-#import "RMTileCacheDownloadOperation.h"
+#import <Mapbox-iOS-SDK/RMTileCacheDownloadOperation.h>
 
 @interface RMTileCache (Configuration)
 

@@ -26,9 +26,9 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMLoadingTileView.h"
+#import <Mapbox-iOS-SDK/RMLoadingTileView.h>
 
-#import "RMMapView.h"
+#import <Mapbox-iOS-SDK/RMMapView.h>
 
 @implementation RMLoadingTileView
 {

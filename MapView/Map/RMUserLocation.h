@@ -26,7 +26,7 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMAnnotation.h"
+#import <Mapbox-iOS-SDK/RMAnnotation.h>
 
 /** The RMUserLocation class defines a specific type of annotation that identifies the user’s current location. You do not create instances of this class directly. Instead, you retrieve an existing RMUserLocation object from the userLocation property of the map view displayed in your application. */
 @interface RMUserLocation : RMAnnotation

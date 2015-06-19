@@ -28,8 +28,8 @@
 #import <Foundation/Foundation.h>
 #import <QuartzCore/QuartzCore.h>
 
-#import "RMFoundation.h"
-#import "RMMapViewDelegate.h"
+#import <Mapbox-iOS-SDK/RMFoundation.h>
+#import <Mapbox-iOS-SDK/RMMapViewDelegate.h>
 
 @class RMAnnotation;
 

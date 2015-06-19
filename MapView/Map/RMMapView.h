@@ -28,15 +28,15 @@
 #import <UIKit/UIKit.h>
 #import <CoreGraphics/CGGeometry.h>
 
-#import "RMGlobalConstants.h"
-#import "RMFoundation.h"
-#import "RMMapViewDelegate.h"
-#import "RMTile.h"
-#import "RMProjection.h"
-#import "RMMapOverlayView.h"
-#import "RMMapTiledLayerView.h"
-#import "RMMapScrollView.h"
-#import "RMTileSourcesContainer.h"
+#import <Mapbox-iOS-SDK/RMGlobalConstants.h>
+#import <Mapbox-iOS-SDK/RMFoundation.h>
+#import <Mapbox-iOS-SDK/RMMapViewDelegate.h>
+#import <Mapbox-iOS-SDK/RMTile.h>
+#import <Mapbox-iOS-SDK/RMProjection.h>
+#import <Mapbox-iOS-SDK/RMMapOverlayView.h>
+#import <Mapbox-iOS-SDK/RMMapTiledLayerView.h>
+#import <Mapbox-iOS-SDK/RMMapScrollView.h>
+#import <Mapbox-iOS-SDK/RMTileSourcesContainer.h>
 
 @class RMProjection;
 @class RMFractalTileProjection;

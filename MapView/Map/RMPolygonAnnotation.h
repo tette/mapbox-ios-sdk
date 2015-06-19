@@ -26,7 +26,7 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMShapeAnnotation.h"
+#import <Mapbox-iOS-SDK/RMShapeAnnotation.h>
 
 /** An RMPolygonAnnotation is a concrete subclass of RMShapeAnnotation that is used to represent a shape consisting of one or more points that define a closed polygon. The points are connected end-to-end in the order they are provided. The first and last points are connected to each other to create the closed shape. The annotation will automatically have a layer created when needed that displays an RMShape.
 *

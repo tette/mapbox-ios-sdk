@@ -25,10 +25,10 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMAbstractWebMapSource.h"
+#import <Mapbox-iOS-SDK/RMAbstractWebMapSource.h>
 
-#import "RMTileCache.h"
-#import "RMConfiguration.h"
+#import <Mapbox-iOS-SDK/RMTileCache.h>
+#import <Mapbox-iOS-SDK/RMConfiguration.h>
 
 #define HTTP_404_NOT_FOUND 404
 

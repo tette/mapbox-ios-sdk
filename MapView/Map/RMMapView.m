@@ -25,35 +25,35 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMMapView.h"
-#import "RMMapViewDelegate.h"
-#import "RMPixel.h"
+#import <Mapbox-iOS-SDK/RMMapView.h>
+#import <Mapbox-iOS-SDK/RMMapViewDelegate.h>
+#import <Mapbox-iOS-SDK/RMPixel.h>
 
-#import "RMFoundation.h"
-#import "RMProjection.h"
-#import "RMMarker.h"
-#import "RMCircle.h"
-#import "RMShape.h"
-#import "RMAnnotation.h"
-#import "RMQuadTree.h"
-#import "RMPointAnnotation.h"
+#import <Mapbox-iOS-SDK/RMFoundation.h>
+#import <Mapbox-iOS-SDK/RMProjection.h>
+#import <Mapbox-iOS-SDK/RMMarker.h>
+#import <Mapbox-iOS-SDK/RMCircle.h>
+#import <Mapbox-iOS-SDK/RMShape.h>
+#import <Mapbox-iOS-SDK/RMAnnotation.h>
+#import <Mapbox-iOS-SDK/RMQuadTree.h>
+#import <Mapbox-iOS-SDK/RMPointAnnotation.h>
 
-#import "RMFractalTileProjection.h"
+#import <Mapbox-iOS-SDK/RMFractalTileProjection.h>
 
-#import "RMTileCache.h"
-#import "RMTileSource.h"
-#import "RMMapboxSource.h"
+#import <Mapbox-iOS-SDK/RMTileCache.h>
+#import <Mapbox-iOS-SDK/RMTileSource.h>
+#import <Mapbox-iOS-SDK/RMMapboxSource.h>
 
-#import "RMMapTiledLayerView.h"
-#import "RMMapOverlayView.h"
-#import "RMLoadingTileView.h"
+#import <Mapbox-iOS-SDK/RMMapTiledLayerView.h>
+#import <Mapbox-iOS-SDK/RMMapOverlayView.h>
+#import <Mapbox-iOS-SDK/RMLoadingTileView.h>
 
-#import "RMUserLocation.h"
-#import "RMUserTrackingBarButtonItem.h"
+#import <Mapbox-iOS-SDK/RMUserLocation.h>
+#import <Mapbox-iOS-SDK/RMUserTrackingBarButtonItem.h>
 
-#import "RMAttributionViewController.h"
+#import <Mapbox-iOS-SDK/RMAttributionViewController.h>
 
-#import "SMCalloutView.h"
+#import <Mapbox-iOS-SDK/SMCalloutView.h>
 
 #pragma mark --- begin constants ----
 

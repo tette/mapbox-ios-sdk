@@ -25,7 +25,7 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMGenericMapSource.h"
+#import <Mapbox-iOS-SDK/RMGenericMapSource.h>
 
 /** An RMTileMillSource is used to display map tiles from a live, running instance of [TileMill](https://mapbox.com/tilemill). All instances of TileMill automatically include an HTTP server, allowing network access outside of the application. This tile source allows for an easier development cycle between map editing and testing in an iOS application. */
 @interface RMTileMillSource : RMGenericMapSource

@@ -26,7 +26,7 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMAbstractMercatorTileSource.h"
+#import <Mapbox-iOS-SDK/RMAbstractMercatorTileSource.h>
 
 /** RMCompositeSource combines two or more other tile sources, compositing them into a single image per tile and caching that composited result to the tile cache.
 *

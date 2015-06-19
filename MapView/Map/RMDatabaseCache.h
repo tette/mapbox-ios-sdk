@@ -26,7 +26,7 @@
 // POSSIBILITY OF SUCH DAMAGE.
 
 #import <UIKit/UIKit.h>
-#import "RMTileCache.h"
+#import <Mapbox-iOS-SDK/RMTileCache.h>
 
 /** An RMDatabaseCache object represents disk-based caching of map tile images. This cache is meant for longer-term storage than RMMemoryCache, potentially for long periods of time, allowing completely offline use of map view.
 *

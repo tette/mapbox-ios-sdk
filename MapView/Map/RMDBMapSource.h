@@ -25,8 +25,8 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMAbstractMercatorTileSource.h"
-#import "RMProjection.h"
+#import <Mapbox-iOS-SDK/RMAbstractMercatorTileSource.h>
+#import <Mapbox-iOS-SDK/RMProjection.h>
 
 @interface RMDBMapSource : RMAbstractMercatorTileSource
 

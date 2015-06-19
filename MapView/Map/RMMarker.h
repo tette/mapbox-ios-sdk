@@ -26,8 +26,8 @@
 // POSSIBILITY OF SUCH DAMAGE.
 
 #import <UIKit/UIKit.h>
-#import "RMMapLayer.h"
-#import "RMFoundation.h"
+#import <Mapbox-iOS-SDK/RMMapLayer.h>
+#import <Mapbox-iOS-SDK/RMFoundation.h>
 
 typedef enum : NSUInteger {
     RMMarkerMapboxImageSizeSmall,

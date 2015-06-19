@@ -25,11 +25,11 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMStaticMapView.h"
+#import <Mapbox-iOS-SDK/RMStaticMapView.h>
 
-#import "RMAnnotation.h"
-#import "RMMapboxSource.h"
-#import "RMMarker.h"
+#import <Mapbox-iOS-SDK/RMAnnotation.h>
+#import <Mapbox-iOS-SDK/RMMapboxSource.h>
+#import <Mapbox-iOS-SDK/RMMarker.h>
 
 #define kMapboxDefaultCenter CLLocationCoordinate2DMake(MAXFLOAT, MAXFLOAT)
 #define kMapboxDefaultZoom   -1.0f

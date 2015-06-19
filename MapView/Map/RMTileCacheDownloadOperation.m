@@ -25,9 +25,9 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMTileCacheDownloadOperation.h"
-#import "RMAbstractWebMapSource.h"
-#import "RMConfiguration.h"
+#import <Mapbox-iOS-SDK/RMTileCacheDownloadOperation.h>
+#import <Mapbox-iOS-SDK/RMAbstractWebMapSource.h>
+#import <Mapbox-iOS-SDK/RMConfiguration.h>
 
 @implementation RMTileCacheDownloadOperation
 {

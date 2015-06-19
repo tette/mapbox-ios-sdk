@@ -31,7 +31,7 @@
 //  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 //
 
-#import "RMAbstractWebMapSource.h"
+#import <Mapbox-iOS-SDK/RMAbstractWebMapSource.h>
 
 #define kMapboxDefaultTileSize 256
 #define kMapboxDefaultMinTileZoom 0

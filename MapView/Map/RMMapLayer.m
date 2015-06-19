@@ -25,11 +25,11 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMMapLayer.h"
-#import "RMPixel.h"
-#import "RMAnnotation.h"
-#import "RMMapView.h"
-#import "RMMarker.h"
+#import <Mapbox-iOS-SDK/RMMapLayer.h>
+#import <Mapbox-iOS-SDK/RMPixel.h>
+#import <Mapbox-iOS-SDK/RMAnnotation.h>
+#import <Mapbox-iOS-SDK/RMMapView.h>
+#import <Mapbox-iOS-SDK/RMMarker.h>
 
 @interface RMMapView (PrivateMethods)
 

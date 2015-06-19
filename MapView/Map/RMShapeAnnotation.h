@@ -26,7 +26,7 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMAnnotation.h"
+#import <Mapbox-iOS-SDK/RMAnnotation.h>
 
 /** An RMShapeAnnotation is an abstract subclass of RMAnnotation that is used to represent a shape consisting of one or more points. You should not create instances of this class directly. Instead, you should create instances of the RMPolylineAnnotation or RMPolygonAnnotation classes. However, you can use the properties of this class to access information about the specific points associated with the line or polygon. 
 *

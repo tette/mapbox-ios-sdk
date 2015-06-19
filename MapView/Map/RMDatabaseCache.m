@@ -25,10 +25,10 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMDatabaseCache.h"
-#import "FMDB.h"
-#import "RMTileImage.h"
-#import "RMTile.h"
+#import <Mapbox-iOS-SDK/RMDatabaseCache.h>
+#import <Mapbox-iOS-SDK/FMDB.h>
+#import <Mapbox-iOS-SDK/RMTileImage.h>
+#import <Mapbox-iOS-SDK/RMTile.h>
 
 #define kWriteQueueLimit 15
 

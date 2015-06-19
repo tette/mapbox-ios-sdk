@@ -26,9 +26,9 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMUserLocation.h"
-#import "RMMarker.h"
-#import "RMMapView.h"
+#import <Mapbox-iOS-SDK/RMUserLocation.h>
+#import <Mapbox-iOS-SDK/RMMarker.h>
+#import <Mapbox-iOS-SDK/RMMapView.h>
 
 #define kRMUserLocationAnnotationTypeName @"RMUserLocationAnnotation"
 

@@ -27,9 +27,9 @@
 
 #import <Foundation/Foundation.h>
 
-#import "RMTile.h"
-#import "RMTileSource.h"
-#import "RMTileCache.h"
+#import <Mapbox-iOS-SDK/RMTile.h>
+#import <Mapbox-iOS-SDK/RMTileSource.h>
+#import <Mapbox-iOS-SDK/RMTileCache.h>
 
 @interface RMTileCacheDownloadOperation : NSOperation
 

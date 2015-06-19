@@ -26,12 +26,12 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMMapOverlayView.h"
-#import "RMMarker.h"
-#import "RMAnnotation.h"
-#import "RMPixel.h"
-#import "RMMapView.h"
-#import "RMUserLocation.h"
+#import <Mapbox-iOS-SDK/RMMapOverlayView.h>
+#import <Mapbox-iOS-SDK/RMMarker.h>
+#import <Mapbox-iOS-SDK/RMAnnotation.h>
+#import <Mapbox-iOS-SDK/RMPixel.h>
+#import <Mapbox-iOS-SDK/RMMapView.h>
+#import <Mapbox-iOS-SDK/RMUserLocation.h>
 
 @implementation RMMapOverlayView
 

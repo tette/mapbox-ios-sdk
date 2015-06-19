@@ -28,11 +28,11 @@
 
 #import <CoreLocation/CoreLocation.h>
 
-#import "RMGlobalConstants.h"
-#import "RMAnnotation.h"
-#import "RMMapView.h"
-#import "RMMapLayer.h"
-#import "RMQuadTree.h"
+#import <Mapbox-iOS-SDK/RMGlobalConstants.h>
+#import <Mapbox-iOS-SDK/RMAnnotation.h>
+#import <Mapbox-iOS-SDK/RMMapView.h>
+#import <Mapbox-iOS-SDK/RMMapLayer.h>
+#import <Mapbox-iOS-SDK/RMQuadTree.h>
 
 @interface RMQuadTreeNode (RMAnnotation)
 

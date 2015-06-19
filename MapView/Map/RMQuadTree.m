@@ -26,10 +26,10 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMQuadTree.h"
-#import "RMAnnotation.h"
-#import "RMProjection.h"
-#import "RMMapView.h"
+#import <Mapbox-iOS-SDK/RMQuadTree.h>
+#import <Mapbox-iOS-SDK/RMAnnotation.h>
+#import <Mapbox-iOS-SDK/RMProjection.h>
+#import <Mapbox-iOS-SDK/RMMapView.h>
 
 #pragma mark -
 #pragma mark RMQuadTreeNode implementation

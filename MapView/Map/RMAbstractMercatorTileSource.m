@@ -25,10 +25,10 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMAbstractMercatorTileSource.h"
-#import "RMTileImage.h"
-#import "RMFractalTileProjection.h"
-#import "RMProjection.h"
+#import <Mapbox-iOS-SDK/RMAbstractMercatorTileSource.h>
+#import <Mapbox-iOS-SDK/RMTileImage.h>
+#import <Mapbox-iOS-SDK/RMFractalTileProjection.h>
+#import <Mapbox-iOS-SDK/RMProjection.h>
 
 @implementation RMAbstractMercatorTileSource
 {

@@ -32,7 +32,7 @@
 // http://developer.mapquest.com/web/products/open/map#terms
 //
 
-#import "RMAbstractWebMapSource.h"
+#import <Mapbox-iOS-SDK/RMAbstractWebMapSource.h>
 
 @interface RMMapQuestOpenAerialSource : RMAbstractWebMapSource
 

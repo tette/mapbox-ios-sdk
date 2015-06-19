@@ -25,8 +25,8 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMMemoryCache.h"
-#import "RMTileImage.h"
+#import <Mapbox-iOS-SDK/RMMemoryCache.h>
+#import <Mapbox-iOS-SDK/RMTileImage.h>
 
 @implementation RMMemoryCache
 {

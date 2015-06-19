@@ -26,9 +26,9 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMPolylineAnnotation.h"
+#import <Mapbox-iOS-SDK/RMPolylineAnnotation.h>
 
-#import "RMShape.h"
+#import <Mapbox-iOS-SDK/RMShape.h>
 
 @implementation RMPolylineAnnotation
 

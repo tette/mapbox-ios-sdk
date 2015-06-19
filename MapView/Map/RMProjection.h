@@ -28,7 +28,7 @@
 #import <Foundation/Foundation.h>
 #import <CoreLocation/CoreLocation.h>
 
-#import "RMFoundation.h"
+#import <Mapbox-iOS-SDK/RMFoundation.h>
 
 // Objective-C wrapper for PROJ4 map projection definitions.
 @interface RMProjection : NSObject

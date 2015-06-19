@@ -26,7 +26,7 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMShapeAnnotation.h"
+#import <Mapbox-iOS-SDK/RMShapeAnnotation.h>
 
 /** An RMCircleAnnotation is a concrete subclass of RMShapeAnnotation that is used to represent a circle shape on the map. The annotation will automatically have a layer created when needed that displays an RMCircle.
 *

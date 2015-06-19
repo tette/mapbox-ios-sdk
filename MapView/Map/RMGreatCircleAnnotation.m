@@ -26,9 +26,9 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMGreatCircleAnnotation.h"
+#import <Mapbox-iOS-SDK/RMGreatCircleAnnotation.h>
 
-#import "RMShape.h"
+#import <Mapbox-iOS-SDK/RMShape.h>
 
 @implementation RMGreatCircleAnnotation
 

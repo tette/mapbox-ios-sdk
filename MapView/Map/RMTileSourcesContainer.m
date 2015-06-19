@@ -26,9 +26,9 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMTileSourcesContainer.h"
+#import <Mapbox-iOS-SDK/RMTileSourcesContainer.h>
 
-#import "RMCompositeSource.h"
+#import <Mapbox-iOS-SDK/RMCompositeSource.h>
 
 @implementation RMTileSourcesContainer
 {

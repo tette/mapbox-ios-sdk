@@ -26,7 +26,7 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMShapeAnnotation.h"
+#import <Mapbox-iOS-SDK/RMShapeAnnotation.h>
 
 /** An RMGreatCircleAnnotation class represents a line shape that traces the shortest path along the surface of the Earth. You specify a great circle (also known as a geodesic polyline) using a pair of points. When displayed on a two-dimensional map view, the line segment between the two points may appear curved. */
 @interface RMGreatCircleAnnotation : RMShapeAnnotation

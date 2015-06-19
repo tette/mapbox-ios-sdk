@@ -25,7 +25,7 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMOpenCycleMapSource.h"
+#import <Mapbox-iOS-SDK/RMOpenCycleMapSource.h>
 
 @implementation RMOpenCycleMapSource
 

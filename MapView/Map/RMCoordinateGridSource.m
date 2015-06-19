@@ -26,9 +26,9 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-#import "RMCoordinateGridSource.h"
+#import <Mapbox-iOS-SDK/RMCoordinateGridSource.h>
 
-#import "RMTileCache.h"
+#import <Mapbox-iOS-SDK/RMTileCache.h>
 
 #define kTileSidePadding 25.0 // px
 
